@@ -18,7 +18,7 @@ public class DemoGit2 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {5
+    public static void main(String[] args) {
         System.out.println("5! = " + MyToys.computeFactoria(5));
         System.out.println("6! = " + MyToys.computeFactoria(6));
         //vi dieu
