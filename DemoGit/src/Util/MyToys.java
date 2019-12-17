@@ -21,9 +21,10 @@ public class MyToys {
         // toi uu code, chinh lai code
         //xai vong lap thay vi de quy
         int tmp = 1;
-        if (n < 0)
-            throw new IllegalArgumentException("invalid argument. it must be >= 0");
-        else if(n == 0 || n == 1)
+//        if (n < 0)
+//            throw new IllegalArgumentException("invalid argument. it must be >= 0");
+        //else 
+        if(n == 0 || n == 1)
             return 1;
         else {
             for (int i = 2; i <= n; i++) {
