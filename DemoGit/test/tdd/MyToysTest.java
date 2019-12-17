@@ -5,11 +5,10 @@
  */
 package tdd;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
-import static Util.MyToys.computeFactoria;
-// chi danh cho ham static, import luon ten ham, xai nhu ben C
-// chi goi ten ham, khoi goi class.
+import static Unit.MyToys.computeFactoria;
+import org.junit.Test;
+import static org.junit.Assert.*;
+
 /**
  *
  * @author USER
@@ -17,11 +16,8 @@ import static Util.MyToys.computeFactoria;
 public class MyToysTest {
     
     @Test
-    // tu khoa nay - anotation giup bien 1 ham bat ki thanh psvm
-    public void testSuccessCases(){
-        //test tinh huong dua vao giai thua dung
+    public void Test(){
         assertEquals(120, computeFactoria(5));
-        
     }
     @Test(expected = IllegalArgumentException.class)
     public void testfailCases(){
