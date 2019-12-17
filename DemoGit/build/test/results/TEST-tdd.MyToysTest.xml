@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="SE130059" name="tdd.MyToysTest" skipped="0" tests="2" time="0.093" timestamp="2019-12-17T16:46:03">
+<testsuite errors="0" failures="0" hostname="SE130059" name="tdd.MyToysTest" skipped="0" tests="2" time="0.102" timestamp="2019-12-17T17:31:21">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
@@ -52,12 +52,12 @@
     <property name="libs.eclipselink.src" value="" />
     <property name="user.name" value="USER" />
     <property name="libs.jsf12.javadoc" value="C:\Program Files\NetBeans 8.2\enterprise\docs\javaee-doc-api.jar" />
-    <property name="tmp.manifest.file" value="C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\null1742861530" />
+    <property name="tmp.manifest.file" value="C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\null1034449158" />
     <property name="copylibs.rebase" value="true" />
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tdd.MyToysTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\test\results\TEST-tdd.MyToysTest.xml crashfile=C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\junitvmwatcher7454805109584463883.properties propsfile=C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\junit1592883653226708368.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tdd.MyToysTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\test\results\TEST-tdd.MyToysTest.xml crashfile=C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\junitvmwatcher4780025189610736944.properties propsfile=C:\Users\USER\Desktop\SWE102\SWE102.3\DemoGit\build\junit8455460774204993799.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -406,8 +406,8 @@
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.2\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="tdd.MyToysTest" name="testfailCases" time="0.002" />
-  <testcase classname="tdd.MyToysTest" name="Test" time="0.001" />
+  <testcase classname="tdd.MyToysTest" name="testfailCases" time="0.003" />
+  <testcase classname="tdd.MyToysTest" name="Test" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
