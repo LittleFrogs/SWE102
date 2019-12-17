@@ -11,9 +11,9 @@ package Unit;
  */
 public class MyToys {
     public static int computeFactoria(int n){
-        if(n < 0)
-            throw new IllegalArgumentException("invalid argument. it must be >= 0");
-        else 
+//        if(n < 0)
+//            throw new IllegalArgumentException("invalid argument. it must be >= 0");
+//        else 
         if(n == 0 || n == 1)
             return 1;
         else
