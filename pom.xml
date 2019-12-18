@@ -48,7 +48,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.mypackage.MyClass</mainClass>
+            <mainClass>demogit.DemoGit.class</mainClass>
           </manifest>
         </archive>
       </configuration>
