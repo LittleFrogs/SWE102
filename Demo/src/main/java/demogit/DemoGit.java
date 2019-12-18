@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package main;
+package demogit;
 
 import Unit.MyToys;
 import Unit.MyToys;
@@ -14,7 +14,7 @@ import Unit.MyToys;
  *
  * @author USER
  */
-public class DemoGit2 {
+public class DemoGit {
 
     /**
      * @param args the command line arguments
