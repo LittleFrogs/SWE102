@@ -4,18 +4,6 @@
     <groupId>com.mycompany</groupId>
     <artifactId>Demo</artifactId>
     <version>1.0-SNAPSHOT</version>
-  <configuration>
-        <archive>
-          <manifest>
-            <addClasspath>true</addClasspath>
-            <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>demogit.DemoGit.class</mainClass>
-          </manifest>
-        </archive>
-      </configuration>
-    </plugin>
-  </plugins>
-</build>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
