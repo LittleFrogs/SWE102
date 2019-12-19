@@ -9,7 +9,7 @@ package Unit;
  *
  * @author USER
  */
-public class MyToys {5
+public class MyToys {
     public static int computeFactoria(int n){
         if(n < 0)
             throw new IllegalArgumentException("invalid argument. it must be >= 0");
