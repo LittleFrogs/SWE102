@@ -14,7 +14,8 @@ import static org.junit.Assert.*;
  */
 public class MyToysTest {
     
-    public MyToysTest() {
+    @Test
+    public void testComputeFactorial() {
+        assertEquals(120, Unit.MyToys.computeFactoria(6));
     }
-    
 }
