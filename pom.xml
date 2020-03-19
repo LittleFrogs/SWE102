@@ -23,5 +23,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <sonar.projectKey>LittleFrogs_SWE102</sonar.projectKey>
+  <sonar.organization>littlefrogs-1</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>2613f8079c7d4aa9b230216d2578bb4d94cdef1a</sonar.login>
     </properties>
 </project>
