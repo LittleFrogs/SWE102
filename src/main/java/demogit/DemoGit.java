@@ -24,6 +24,7 @@ public class DemoGit {
         System.out.println("6! = " + MyToys.computeFactoria(6));
         //vi dieu
         System.out.println("-5! = " + MyToys.computeFactoria(-5));
+        System.out.println("banana");
     }
     
 }
